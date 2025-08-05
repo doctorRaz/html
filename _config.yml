@@ -1,11 +1,11 @@
 lang: ru-RU
 encoding: utf-8
 
-title: "Профессия: программист"
-description: "Быть программистом 30 лет."
+title: "Тестовый блог"
+description: "Описание описания"
 
-author: "Mark Shevchenko"
-url: https://markshevchenko.pro
+author: "drz"
+url: https://doctorraz.github.io/html
 
 permalink: pretty
 highlighter: rouge
